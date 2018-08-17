@@ -7,8 +7,8 @@ BOT_NAME = 'FxRates'
 SPIDER_MODULES = ['FxRates.spiders']
 NEWSPIDER_MODULE = 'FxRates.spiders'
 
-LOG_FILE = 'logs.txt'
-LOG_LEVEL = 'INFO'
+#LOG_FILE = 'logs.txt'
+#LOG_LEVEL = 'INFO'
 
 CONCURRENT_REQUESTS = 2
 DOWNLOAD_DELAY = 1

@@ -170,3 +170,5 @@ FxRates/__pycache__/settings.cpython-36.pyc
 FxRates/spiders/__pycache__/BancaTransilvania.cpython-36.pyc
 FxRates/spiders/__pycache__/CECBank.cpython-36.pyc
 FxRates/spiders/__pycache__/__init__.cpython-36.pyc
+.vscode/settings.json
+.vscode/settings.json
