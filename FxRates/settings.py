@@ -19,7 +19,7 @@ RETRY_HTTP_CODES = [503, 511, 301, 302]
 HTTPERROR_ALLOW_ALL = True
 COOKIES_ENABLED = False
 
-ROBOTSTXT_OBEY = True
+ROBOTSTXT_OBEY = False
 
 ITEM_PIPELINES = {
     'FxRates.pipelines.RemoveItemWithNoCurrenciesPipeline': 1,
